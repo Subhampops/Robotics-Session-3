@@ -21,6 +21,10 @@ The following is today's overview or topics to be covered:
 14. File System
 
 ## What is Computer?
-A computer is a programmable electronic device that can store, retrieve, and process data. It makes our like easier. 
+A computer is a programmable electronic device that can store, retrieve, and process data. It makes our life easier. 
+They are available in various sizes and shapes.
+We generally use **Laptops** and **Tower Top Computers** in our day to day lives.
 
+The acronym for the word **COMPUTER** is:
 
+<h1>C</h1> **- Commonly**
