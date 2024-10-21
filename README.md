@@ -38,4 +38,7 @@ The acronym for the word **COMPUTER** is:
 
 ## Parts of Computer 
 
-![Parts of Computer](For Readme/parts_of_computer.png)
+<img width="836" alt="parts_of_computer" src="https://github.com/user-attachments/assets/2569694c-1360-4865-bae0-abc5e7a075bb">
+
+
+
