@@ -38,8 +38,13 @@ The acronym for the word **COMPUTER** is:
 
 ## Parts of Computer 
 
-<img width="836" alt="parts_of_computer" src="https://github.com/user-attachments/assets/2569694c-1360-4865-bae0-abc5e7a075bb">
+<img width="836" alt="parts_of_computer" src="https://github.com/user-attachments/assets/2569694c-1360-4865-bae0-abc5e7a075bb"> <br>
 
 
+There are 3 parts of a Computer:
+
+1. **Hardware**: A simple definition of computer hardware is any physical parts or components that contribute to a computer system. It refers to thhe parts which we can touch and feel.
+                       Eg: Monitor,CPU,Hard Disk,Keyboard,etc
+2. 
 
 
