@@ -27,14 +27,14 @@ We generally use **Laptops** and **Tower Top Computers** in our day to day lives
 
 The acronym for the word **COMPUTER** is:
 
-**C** - Commonly 
-**O** - Operated 
-**M** - Machine  
-**P** - Particularly 
-**U** - Used for 
-**T** - Technology
-**E** - Education & 
-**R** - Research
+**C** - Commonly <br> 
+**O** - Operated <br>
+**M** - Machine <br> 
+**P** - Particularly <br>
+**U** - Used for <br>
+**T** - Technology <br>
+**E** - Education & <br>
+**R** - Research <br>
 
 ## Parts of Computer 
 
