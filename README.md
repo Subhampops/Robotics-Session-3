@@ -27,4 +27,4 @@ We generally use **Laptops** and **Tower Top Computers** in our day to day lives
 
 The acronym for the word **COMPUTER** is:
 
-<p><h1>C</h1> - Commonly </p>
+**C** - Commonly 
