@@ -1,4 +1,4 @@
-# Robotics-Session-3
+# Robotics-Session-3 (Day 1)
 
 # 𝙄𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙩𝙞𝙤𝙣 𝙏𝙤 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙃𝙖𝙧𝙙𝙬𝙖𝙧𝙚 𝘽𝙖𝙨𝙞𝙘𝙨 𝘼𝙣𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙊𝙧𝙜𝙖𝙣𝙞𝙯𝙖𝙩𝙞𝙤𝙣
 
@@ -19,5 +19,8 @@ The following is today's overview or topics to be covered:
 12. CPU Block diagram.
 13. Interface (GUI, CLI & NLI)
 14. File System
+
+## What is Computer?
+A computer is a programmable electronic device that can store, retrieve, and process data. It makes our like easier. 
 
 
