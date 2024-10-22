@@ -135,21 +135,14 @@ Each generation represents a leap in computing power, size reduction, and the ab
    - **Speakers**: Output sound from the computer.
    - **Projector**: Projects visual output onto a large screen.
 
-#### 3. **Storage Devices**
-   Storage devices are used to store data and information for future use.
-   - **Hard Disk Drive (HDD)**: A magnetic storage device that holds large amounts of data.
-   - **Solid State Drive (SSD)**: A faster, more reliable storage device than an HDD, without moving parts.
-   - **USB Flash Drive**: A portable storage device that can be easily plugged into a computer.
-   - **Optical Discs (CD/DVD)**: Storage media used for music, movies, software, and more.
-   - **Memory Cards**: Small storage devices used in cameras, smartphones, and other gadgets.
    
-#### 4. **Processing Devices**
+#### 3. **Processing Devices**
    These are the devices that process and execute instructions, acting as the "brain" of the computer.
    - **Central Processing Unit (CPU)**: The primary processing unit that carries out instructions of computer programs.
    - **Graphics Processing Unit (GPU)**: Specialized for rendering graphics and handling visual computations.
    - **Sound Processing Unit (SPU)**: A Sound Processing Unit (SPU) is a dedicated processor used to handle and manage audio-related tasks in a computer or gaming system. It is designed to offload the computational work associated with audio processing from the main CPU, allowing the system to generate and manipulate sound more efficiently.
 
-#### 5. **Storage Devices**
+#### 4. **Storage Devices**
 **Storage devices** are hardware components used to store and retrieve data on a computer. They can be classified into two main categories: **primary memory** and **secondary memory**. Both play vital roles in the functioning of a computer, but they differ in terms of speed, volatility, and capacity.
 
 ### **a. Primary Memory**
@@ -244,10 +237,10 @@ Secondary memory (or **external memory**) refers to storage devices that hold da
 | **Examples**             | RAM, Cache, ROM                                | HDD, SSD, USB drives, memory cards, optical discs  |
 
 
-#### 6. **Power Supply Unit (PSU)**
+#### 5. **Power Supply Unit (PSU)**
    The PSU provides power to the entire system by converting AC electricity from the wall outlet into the appropriate voltage and current needed by the computer components. Eg: USP, SMPS, etc.
 
-#### 7. **Networking Devices**
+#### 6. **Networking Devices**
    Networking devices allow computers to connect to networks and communicate with other devices.
    - **Network Interface Card (NIC)**: Provides the computer with the ability to connect to a network, either via wired Ethernet or wireless Wi-Fi.
    - **Modem**: Converts digital data into analog signals for transmission over telephone lines.
