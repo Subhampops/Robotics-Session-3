@@ -482,3 +482,5 @@ A **Natural Language Interface (NLI)** allows users to interact with the system 
 
 ## Questions And Answers.....
 <img width="529" alt="Screenshot 2024-10-22 at 11 00 12 AM" src="https://github.com/user-attachments/assets/0f89cc8c-8e8e-4035-8525-3d60950fc45a">
+
+## Rate us
