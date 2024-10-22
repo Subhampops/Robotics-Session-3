@@ -119,6 +119,8 @@ Each generation represents a leap in computing power, size reduction, and the ab
 
 ### **Types of Computer Hardware**
 
+<img width="1074" alt="Screenshot 2024-10-22 at 8 09 54 AM" src="https://github.com/user-attachments/assets/880ae1d1-d691-44ab-9c70-24c41e21d8a2">
+
 #### 1. **Input Devices**
    Input devices allow users to interact with the computer by providing data or instructions. Common types include:
    - **Keyboard**: For typing data and commands.
