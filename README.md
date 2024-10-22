@@ -473,3 +473,5 @@ A **Natural Language Interface (NLI)** allows users to interact with the system 
 - **GUI** is best for everyday users who prefer visual navigation with icons and buttons.
 - **CLI** is suited for advanced users who need efficiency and control over system tasks through direct command input.
 - **NLI** brings conversational interaction into computing, making systems easier to use for non-technical people by allowing them to speak or type naturally.
+
+## Questions And Answers.....
