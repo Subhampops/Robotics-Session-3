@@ -302,3 +302,74 @@ Here’s a basic representation of the IPO cycle:
 - **Storage**: The user saves the results in a file for future reference.
 
 This model illustrates how computers work in a simplified way, applying to all computing systems from simple calculators to complex computer systems.
+
+## Central Processing Unit (CPU) & it's parts
+The **Central Processing Unit (CPU)**, often referred to as the "brain" of the computer, is responsible for executing instructions and processing data in a computer system. It performs all the basic arithmetic, logical, control, and input/output operations specified by the instructions in the programs.
+
+### **Main Parts of the CPU:**
+
+1. **ALU (Arithmetic Logic Unit)**
+2. **CU (Control Unit)**
+3. **MU (Memory Unit)**
+
+Each of these components plays a specific role in the operation of the CPU.
+
+---
+
+### 1. **ALU (Arithmetic Logic Unit)**
+
+- **Function**: The ALU is responsible for performing all arithmetic and logical operations within the CPU.
+- **Operations**:
+  - **Arithmetic operations**: Addition, subtraction, multiplication, division, etc.
+  - **Logical operations**: Comparisons (such as equal to, greater than, less than), AND, OR, NOT, and XOR operations.
+- **Example**: When you add two numbers in a calculator, the ALU performs the addition.
+
+The ALU is a critical part of the CPU because it handles the basic tasks of computation that enable the system to process data.
+
+---
+
+### 2. **CU (Control Unit)**
+
+- **Function**: The Control Unit manages and coordinates all the operations of the computer. It directs how data moves between the CPU and memory, input/output devices, and storage systems.
+- **Key Roles**:
+  - **Instruction fetching**: Retrieves instructions from the memory.
+  - **Instruction decoding**: Interprets the instructions to determine the required operation.
+  - **Control signals**: Sends signals to direct other components, like the ALU and memory, on how to respond to the current instruction.
+  - **Flow control**: Manages the sequence in which instructions are executed and the data flow within the system.
+- **Example**: When you run a program, the CU fetches the instructions of the program, decodes them, and instructs the ALU on what operations to perform.
+
+The CU acts as a supervisor, ensuring that all parts of the CPU work in coordination.
+
+---
+
+### 3. **MU (Memory Unit)**
+
+- **Function**: The Memory Unit stores data, instructions, and intermediate results during processing. While this term may sometimes refer to external RAM, within the CPU, the **MU** typically refers to the **registers** used for temporary storage.
+- **Key Components**:
+  - **Registers**: Small storage areas inside the CPU that hold data and instructions that are being processed.
+  - **Cache**: A faster type of memory used to store frequently accessed data for quick retrieval.
+- **Example**: When you perform a calculation, the intermediate results are stored in the registers temporarily until the final result is outputted.
+
+---
+
+### **Working Together**:
+
+When a program is executed:
+1. The **Control Unit (CU)** fetches the instructions from memory.
+2. The CU decodes these instructions and tells the **ALU** what operations need to be performed.
+3. The **ALU** performs the required arithmetic or logical operations.
+4. The data or result may be stored temporarily in the **Memory Unit (MU)** for further processing or sent to an output device.
+
+This interaction forms the core cycle of how a CPU functions to process information.
+
+### **Summary of CPU Parts**:
+
+| **Component**         | **Full Form**                | **Function**                                                      |
+|-----------------------|------------------------------|-------------------------------------------------------------------|
+| **ALU**               | Arithmetic Logic Unit         | Performs arithmetic and logical operations                        |
+| **CU**                | Control Unit                  | Directs the flow of data, manages instruction fetching and execution|
+| **MU** (Registers)    | Memory Unit                   | Stores data and instructions temporarily for quick access         |
+
+Together, the ALU, CU, and MU form the core components of the CPU that enable it to process data and execute instructions efficiently.
+
+
