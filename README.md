@@ -250,4 +250,55 @@ Secondary memory (or **external memory**) refers to storage devices that hold da
 
 These hardware components work together to make the computer functional, enabling it to take input, process it, store information, and produce output.
 
+## Input-Process-Output Cycle or Input/Output Cycle
 
+The **IPO Cycle** (Input-Process-Output Cycle) is a fundamental model used to describe how a computer system functions. It represents the sequence of operations that any computing device goes through to perform tasks and deliver results. The cycle is divided into three main phases: **Input**, **Processing**, and **Output**. Often, there’s an additional **Storage** component to retain data for future use.
+
+### **Components of the IPO Cycle:**
+
+1. **Input**:
+   - This is the stage where data is fed into the system through various input devices like a keyboard, mouse, scanner, or sensors.
+   - **Example**: A user types on a keyboard, and the system receives the characters.
+
+2. **Processing**:
+   - During this phase, the input data is processed or manipulated according to instructions provided by a program or an algorithm. The Central Processing Unit (CPU) performs the necessary calculations or transformations.
+   - **Example**: The system sorts the typed data or performs calculations based on the input.
+
+3. **Output**:
+   - The results of the processing are presented to the user through output devices such as monitors, printers, or speakers.
+   - **Example**: The sorted data is displayed on the screen, or the result of a calculation is printed.
+
+4. **Storage (Optional)**:
+   - Sometimes, data needs to be saved for future use or reference. This can be done through storage devices such as hard drives, SSDs, or cloud storage.
+   - **Example**: The sorted data is saved to a file for future reference.
+
+### **Diagram of IPO Cycle**:
+
+Here’s a basic representation of the IPO cycle:
+
+```
++----------------+         +----------------+        +----------------+
+|    Input       | ----->  |  Processing    | -----> |    Output       |
+| (Data Entry)   |         | (CPU Operations|        | (Result Display)|
+|                |         |  & Calculations)|        |                |
++----------------+         +----------------+        +----------------+
+              \                                      /
+               \                                    /
+                \            +----------------+   /
+                 \---------->|    Storage     |<-/ 
+                             | (Data Saving)  |
+                             +----------------+
+```
+
+- **Input**: Provides data to the system (keyboard, mouse, sensors).
+- **Processing**: The CPU processes this data (calculations, comparisons, etc.).
+- **Output**: Displays or presents the processed result (monitor, printer).
+- **Storage**: Saves data for later retrieval (HDD, SSD, cloud).
+
+### **Example in Real Life**:
+- **Input**: A user types numbers into a calculator app.
+- **Processing**: The app performs arithmetic (addition, subtraction, multiplication, or division).
+- **Output**: The result is displayed on the screen.
+- **Storage**: The user saves the results in a file for future reference.
+
+This model illustrates how computers work in a simplified way, applying to all computing systems from simple calculators to complex computer systems.
