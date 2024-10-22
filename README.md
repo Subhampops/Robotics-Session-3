@@ -1,4 +1,5 @@
 # Robotics-Session-3 (Day 1)
+![1000027449_5e452be5c9fa31a6fa3909adf76c6c4d-28_10_2023, 7_43_44 pm](https://github.com/user-attachments/assets/ec359aed-bb5f-41b0-8fba-773b045af1ff)
 
 # 𝙄𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙩𝙞𝙤𝙣 𝙏𝙤 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙃𝙖𝙧𝙙𝙬𝙖𝙧𝙚 𝘽𝙖𝙨𝙞𝙘𝙨 𝘼𝙣𝙙 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙊𝙧𝙜𝙖𝙣𝙞𝙯𝙖𝙩𝙞𝙤𝙣
 
@@ -480,3 +481,4 @@ A **Natural Language Interface (NLI)** allows users to interact with the system 
 - **NLI** brings conversational interaction into computing, making systems easier to use for non-technical people by allowing them to speak or type naturally.
 
 ## Questions And Answers.....
+<img width="529" alt="Screenshot 2024-10-22 at 11 00 12 AM" src="https://github.com/user-attachments/assets/0f89cc8c-8e8e-4035-8525-3d60950fc45a">
