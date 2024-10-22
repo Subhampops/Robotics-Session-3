@@ -18,7 +18,6 @@ The following is today's overview or topics to be covered:
 11. CPU and Parts of CPU.
 12. CPU Block diagram.
 13. Interface (GUI, CLI & NLI)
-14. File System
 
 ## What is Computer?
 A computer is a programmable electronic device that can store, retrieve, and process data. It makes our life easier. 
