@@ -372,6 +372,11 @@ This interaction forms the core cycle of how a CPU functions to process informat
 Together, the ALU, CU, and MU form the core components of the CPU that enable it to process data and execute instructions efficiently.
 
 
+## CPU Block Diagram
+
+<img width="1727" alt="Screenshot 2024-10-22 at 10 57 29 AM" src="https://github.com/user-attachments/assets/0eb004e9-0227-4b23-8502-67ed2dd01669">
+
+
 ## Interface
 ### **Interface**
 
